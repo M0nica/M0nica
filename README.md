@@ -1,10 +1,61 @@
-# Hi, I'm Monica 👋🏾 👩🏾‍💻
-
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
 
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+## Hi, I'm Yohan 👋
+<br />
+
+
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc5NGQxYTE1Mzc3ZTUzMGNmM2U1NDUyZGMyZTkxNDc1YTdjNjRiNiZjdD1n/ndM7oIOjaDQOhMKtF3/giphy.gif" width="250">
+
+
+I'm from <strong>Colombia 🇨🇴🇨🇴</strong>.
+<br />
+
+
+I'm a backend developer with experience in technologies such as Javascript, Node.js, Express.js, Typescript, Nest.js, PostgreSQL and MongoDB, as well as database modeling.
+
+I have a degree in business administration and a technologist degree in software development, but most importantly, I'm always eager to learn and improve my skills.
+<br />
+
+
+---
+## I'm a  BA in Business  and a Backend Developer!!
+
+- 🔭 I’m currently working as **Freelance**
+- 📚  My hard skills are: **Javascript, Node, Typescript, Express, PostgreSQL and MongoDB.**
+- 🌱 I am seeking to delve deeper into backend development and gain knowledge in data engineering.
+- 😄 I'm open to learn new technologies!!!
+- 📫 How to reach me **yohanwebdev@gmail.com**
+
+- 📚 Professional projects in my [Github](https://github.com/yohanolmedo) repository 
+
+## Find me around the web 🌎:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+
+<br />
+
+<br />
+
+### Languages and Tools:
+<p align="left">
+  <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" height="40" width="40"/>
+  <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" height="40" width="40"/>
+  <img src="https://api.iconify.design/logos:nodejs.svg" alt="node" height="40" width="40"/>  
+  <img src="https://api.iconify.design/logos:nestjs.svg" alt="express" height="40" width="40"/>
+  <img src="https://api.iconify.design/simple-icons:express.svg" alt="express" height="40" width="40"/>
+  <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgreSQL" height="40" width="40"/> 
+  <img src="https://api.iconify.design/logos:git.svg" alt="git" height="40" width="40"/> 
+  <img src="https://api.iconify.design/logos:terminal.svg" alt="terminal" height="40" width="40"/> 
+  <img src="https://api.iconify.design/logos:visual-studio.svg" alt="visualstudio" height="40" width="40"/> 
+  
+<p>
+
+<br />
+Thanks for visiting my profile!
+
+<br />
+  
+  ---
